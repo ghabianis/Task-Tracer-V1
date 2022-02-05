@@ -9,8 +9,14 @@
     {
       "text": "Complete angular services",
       "day": "2022-02-06",
-      "reminder": true,
+      "reminder": false,
       "id": 7
+    },
+    {
+      "text": "New Day",
+      "day": "2022-02-12",
+      "reminder": false,
+      "id": 8
     }
   ]
 }
